@@ -1,0 +1,75 @@
+ [2022-10-02 00:02:49,963] Register - Step 01: Navigate to Register page
+ [2022-10-02 00:02:51,883] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+ [2022-10-02 00:02:52,077] Register - Step 03: Enter to Lastname textbox with value is 'FC'
+ [2022-10-02 00:02:53,337] Register - Step 04: Enter to Email textbox with value is 'afc734@mail.vn'
+ [2022-10-02 00:02:53,531] Register - Step 05: Enter to Password textbox with value is '123456'
+ [2022-10-02 00:02:53,644] Register - Step 06: Enter to Confirm password textbox with value is '123456'
+ [2022-10-02 00:02:53,775] Register - Step 07: Click to Register button
+ [2022-10-02 00:02:54,686] Register - Step 08: Vefiry Register success message is displayed
+ [2022-10-02 00:02:55,155] Login - Step 01: Navigate to Login page
+ [2022-10-02 00:02:56,657] Login - Step 02: Enter to Email textbox with value is 'afc734@mail.vn'
+ [2022-10-02 00:02:56,810] Login - Step 03: Enter to Password textbox with value is '123456'
+ [2022-10-02 00:02:56,928] Login - Step 04: Click to Login button
+ [2022-10-02 00:02:57,876] Login - Step 05: Verify My account link is displayed
+ [2022-10-02 00:02:58,008]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:02:58,016] My Account - Step 01: Navigate to My account page
+ [2022-10-02 00:02:58,603] My Account - Step 02: Verify Customer infor page is displayed
+ [2022-10-02 00:02:58,727]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:02:58,728] My Account - Step 03: Verify 'Firstname' value is correctly
+ [2022-10-02 00:02:58,824]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:02:58,824] My Account - Step 04: Verify 'Lastname' value is correctly
+ [2022-10-02 00:02:58,923]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:02:58,924] My Account - Step 05: Verify 'Email' value is correctly
+ [2022-10-02 00:02:59,023]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:02:59,027] OS name = windows 10
+ [2022-10-02 00:02:59,028] Driver instance name = firefoxdriver: firefox on windows (16810724-a602-43f2-9abe-289c9c1a05fa)
+ [2022-10-02 00:05:12,426] Register - Step 01: Navigate to Register page
+ [2022-10-02 00:05:14,335] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+ [2022-10-02 00:05:14,519] Register - Step 03: Enter to Lastname textbox with value is 'FC'
+ [2022-10-02 00:05:15,696] Register - Step 04: Enter to Email textbox with value is 'afc5438@mail.vn'
+ [2022-10-02 00:05:15,924] Register - Step 05: Enter to Password textbox with value is '123456'
+ [2022-10-02 00:05:16,030] Register - Step 06: Enter to Confirm password textbox with value is '123456'
+ [2022-10-02 00:05:16,162] Register - Step 07: Click to Register button
+ [2022-10-02 00:05:17,028] Register - Step 08: Vefiry Register success message is displayed
+ [2022-10-02 00:05:17,460] Login - Step 01: Navigate to Login page
+ [2022-10-02 00:05:18,814] Login - Step 02: Enter to Email textbox with value is 'afc5438@mail.vn'
+ [2022-10-02 00:05:18,950] Login - Step 03: Enter to Password textbox with value is '123456'
+ [2022-10-02 00:05:19,071] Login - Step 04: Click to Login button
+ [2022-10-02 00:05:19,885] Login - Step 05: Verify My account link is displayed
+ [2022-10-02 00:05:19,989]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:05:19,996] My Account - Step 01: Navigate to My account page
+ [2022-10-02 00:05:20,552] My Account - Step 02: Verify Customer infor page is displayed
+ [2022-10-02 00:05:20,651]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:05:20,651] My Account - Step 03: Verify 'Firstname' value is correctly
+ [2022-10-02 00:05:20,753]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:05:20,754] My Account - Step 04: Verify 'Lastname' value is correctly
+ [2022-10-02 00:05:20,832]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:05:20,832] My Account - Step 05: Verify 'Email' value is correctly
+ [2022-10-02 00:05:20,910]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:05:20,915] OS name = windows 10
+ [2022-10-02 00:05:20,916] Driver instance name = firefoxdriver: firefox on windows (18068ce0-ffb7-4f9d-bc9d-245bbb8e6195)
+ [2022-10-02 00:22:41,765] Register - Step 01: Navigate to Register page
+ [2022-10-02 00:22:43,680] Register - Step 02: Enter to Firstname textbox with value is 'Automation'
+ [2022-10-02 00:22:43,879] Register - Step 03: Enter to Lastname textbox with value is 'FC'
+ [2022-10-02 00:22:44,788] Register - Step 04: Enter to Email textbox with value is 'afc5470@mail.vn'
+ [2022-10-02 00:22:45,092] Register - Step 05: Enter to Password textbox with value is '123456'
+ [2022-10-02 00:22:45,285] Register - Step 06: Enter to Confirm password textbox with value is '123456'
+ [2022-10-02 00:22:45,505] Register - Step 07: Click to Register button
+ [2022-10-02 00:22:46,385] Register - Step 08: Vefiry Register success message is displayed
+ [2022-10-02 00:22:46,698] Login - Step 01: Navigate to Login page
+ [2022-10-02 00:22:48,178] Login - Step 02: Enter to Email textbox with value is 'afc5470@mail.vn'
+ [2022-10-02 00:22:48,491] Login - Step 03: Enter to Password textbox with value is '123456'
+ [2022-10-02 00:22:48,657] Login - Step 04: Click to Login button
+ [2022-10-02 00:22:49,523] Login - Step 05: Verify My account link is displayed
+ [2022-10-02 00:22:49,656]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:22:49,663] My Account - Step 01: Navigate to My account page
+ [2022-10-02 00:22:50,268] My Account - Step 02: Verify Customer infor page is displayed
+ [2022-10-02 00:22:50,382]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:22:50,382] My Account - Step 03: Verify 'Firstname' value is correctly
+ [2022-10-02 00:22:50,451]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:22:50,452] My Account - Step 04: Verify 'Lastname' value is correctly
+ [2022-10-02 00:22:50,532]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:22:50,533] My Account - Step 05: Verify 'Email' value is correctly
+ [2022-10-02 00:22:50,610]  -------------------------- PASSED -------------------------- 
+ [2022-10-02 00:22:50,614] OS name = windows 10
+ [2022-10-02 00:22:50,615] Driver instance name = chromedriver: chrome on windows (090271628cb793752bd317e7cece0373)

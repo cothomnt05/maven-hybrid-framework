@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="WordPress - Admin">
+	<listeners>
+		<listener class-name="commons.MethodListener"/>	
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+		<!--<listener class-name="reportConfig.ExtentTestListener"/>
+		<listener class-name="reportConfig.ReportNGListener"/>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/> 	
+		<listener class-name="reportConfig.AllureTestListener"/>-->
+	</listeners>
+	
+	<parameter name="urlUser" value="http://automationfc.net/"></parameter>
+	<parameter name="urlAdmin" value="http://automationfc.net/wp-admin/"></parameter>
+	
+	<test name="Run on Firefox">
+	<parameter name = "browser" value ="firefox" />
+		<classes>
+			<class name="com.wordpress.posts.Post_01_Create_Update_Read_Delete_Search" />
+		</classes>
+		
+		<!--<packages>
+			<package name="com.wordpress.posts" />
+		</packages> -->		
+	</test>
+	
+</suite> 
